@@ -221,10 +221,10 @@ namespace DesignPatternChallenge
             Console.WriteLine("✗ Difícil adicionar comportamento aos complementos");
 
             // Perguntas para reflexão:
-            // - Como adicionar comportamento a um objeto dinamicamente?
-            // - Como combinar múltiplos comportamentos sem criar classes para cada combinação?
-            // - Como manter a interface compatível ao adicionar funcionalidades?
-            // - Como permitir que complementos sejam adicionados em tempo de execução?
+            // - Como adicionar comportamento a um objeto dinamicamente?                        - OK
+            // - Como combinar múltiplos comportamentos sem criar classes para cada combinação? - OK
+            // - Como manter a interface compatível ao adicionar funcionalidades?               - OK
+            // - Como permitir que complementos sejam adicionados em tempo de execução?         - OK
         }
     }
 }

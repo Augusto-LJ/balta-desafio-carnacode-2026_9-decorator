@@ -8,10 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="src\DecoratorChallenge\Component\" />
-    <Folder Include="src\DecoratorChallenge\ConcreteComponent\" />
-    <Folder Include="src\DecoratorChallenge\Decorator\" />
-    <Folder Include="src\DecoratorChallenge\ConcreteDecorator\" />
+    <EditorConfigFiles Remove="D:\projetos\balta-desafio-carnacode-2026_9-decorator\DecoretorChallenge\src\DecoratorChallenge\ConcreteDecorators\.editorconfig" />
   </ItemGroup>
 
 </Project>
